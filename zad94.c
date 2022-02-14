@@ -1,4 +1,4 @@
-//Isprintajte sve ASCII znakove na ekran. 
+//Ispisite sve ASCII znakove na ekran. 
 
 #include<stdio.h>
  
